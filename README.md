@@ -1,7 +1,7 @@
 # BottomSheetPopupDialog
 这是一个底部弹出框的库。使用方法也非常简单。
 ### 效果图，如下：
-![](https://raw.githubusercontent.com/loonggg/BottomSheetPopupDialog/master/image/ss.gif)
+![](https://raw.githubusercontent.com/loonggg/BottomSheetPopupDialog/master/image/33.gif)
 ### Step 1. Add the JitPack repository to your build file
 
 Add it in your root build.gradle at the end of repositories:
